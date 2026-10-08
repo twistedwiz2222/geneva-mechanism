@@ -1,16 +1,16 @@
 # 3D Printed 6-Slot Geneva Indexing Mechanism
 
-A functional 6-slot Geneva indexing mechanism designed, precision 3D-printed, and metrology-inspected to evaluate dimensional accuracy, kinematically smooth engagement, and physical tolerances.
+A functional 6-slot Geneva indexing mechanism designed in SolidWorks, sliced with Chitubox, precision 3D-printed, and metrology-inspected to evaluate dimensional accuracy, kinematically smooth engagement, and physical tolerances.
 
 ![Geneva Mechanism Final Assembly](media/assembly_final.jpg)
 
 ---
 
 ## 🛠️ Project Overview
-The Geneva mechanism (Maltese cross) converts continuous rotational motion into precise intermittent rotary indexing motion. This project covers the full engineering workflow: 3D CAD parametric design, FDM additive manufacturing, and post-fabrication metrology verification.
+The Geneva mechanism (Maltese cross) converts continuous rotational motion into precise intermittent rotary indexing motion. This project covers the full engineering workflow: 3D CAD parametric modeling in SolidWorks, FDM slicing in Chitubox, additive manufacturing, and post-fabrication metrology verification.
 
 * **CAD Software:** SolidWorks 2026
-* **Slicing & Fabrication:** Chitubox / Industrial FDM Slicer
+* **Slicing Software:** Chitubox
 * **Manufacturing Location:** Centre of Excellence in Additive Manufacturing (Room GDN G02)
 
 ---
@@ -31,8 +31,9 @@ The Geneva mechanism (Maltese cross) converts continuous rotational motion into 
 
 ---
 
-## 🖨️ 3D Printing & Slicing Setup
+## 🖨️ 3D Printing & Slicing Setup (Chitubox)
 
+* **Slicing Engine:** Chitubox
 * **Material:** PLA Thermoplastic Filament (Ø 1.75 mm)
 * **Manufacturing Process:** Fused Deposition Modeling (FDM) / Material Extrusion
 * **Nozzle Diameter:** 0.40 mm Brass Thermal Nozzle
@@ -59,5 +60,5 @@ Physical measurements were taken in the Precision Measurements and Metrology Lab
 ---
 
 ## 👥 Roles & Contributions
-* **Kabir Sinha:** FDM setup, slicing configurations, additive manufacturing execution, post-processing, and metrology inspection (caliper, micrometer, surface profilometer).
-* **Abhrajit Misra:** 3D solid modeling in SolidWorks, GD&T drawing preparation, and parametric clearance design.
+* **Kabir Sinha:** FDM setup, Chitubox slicing configurations, additive manufacturing execution, post-processing, and metrology inspection (caliper, micrometer, surface profilometer).
+* **Abhrajit Misra:** 3D solid modeling in SolidWorks 2026, GD&T drawing preparation, and parametric clearance design.
