@@ -2,8 +2,7 @@
 
 A functional 6-slot Geneva indexing mechanism designed in SolidWorks, sliced with Chitubox, precision 3D-printed, and metrology-inspected to evaluate dimensional accuracy, kinematically smooth engagement, and physical tolerances.
 
-![Geneva Mechanism Final Assembly](media/assembly_final.jpg)
-
+![Geneva Mechanism Final 3D Printed](media/final%203D%20printed%20geneva%20mechanism.png)
 ---
 
 ## 🛠️ Project Overview
